@@ -1,2 +1,2 @@
 #!/bin/bash
-grep --word-regexp "root" | head -3
+grep -A 3 "root" /etc/passwd
