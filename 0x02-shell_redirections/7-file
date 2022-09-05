@@ -1,2 +1,2 @@
 #!/bin/bash
-You >> is single
+echo -e "Best School"  >> "\\\\\\'\"Best School\"\\'\\\\$\\?\\\\\\\\\\*:)"
